@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GiveMe</string>
+    <string name="give_or_recive">Share or Recive</string>
+    <string name="Share">Share</string>
+    <string name="Recive">Recive</string>
+
+</resources>
